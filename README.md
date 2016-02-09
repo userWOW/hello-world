@@ -1,2 +1,2 @@
 # hello-world
-Just anothr hello world
+Just another hello world
